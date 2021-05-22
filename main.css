@@ -12,3 +12,7 @@ body {
   background-color: gold;
   border-top: 3px solid green;
 }
+
+p {
+  letter-spacing: 0.5;
+}
