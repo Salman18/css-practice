@@ -16,3 +16,7 @@ body {
 p {
   letter-spacing: 0.5;
 }
+
+.sp {
+  font-size: 18px;
+}
