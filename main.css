@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10;
+}
+
+.box {
+  width: 50vw;
+  height: 100vh;
+  background-color: gold;
+  border-top: 3px solid green;
+}
